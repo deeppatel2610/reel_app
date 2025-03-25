@@ -1,16 +1,56 @@
-# reel_app
+# Reel App
 
-A new Flutter project.
+Reel App is a Flutter-based short video platform similar to Instagram Reels and TikTok. It allows users to create, upload, and view short videos.
 
-## Getting Started
+## Features
+- **Short Video Playback**: Smooth scrolling and auto-play videos.
+- **Video Upload**: Users can upload their short videos.
+- **Like & Comment**: Engage with videos using likes and comments.
 
-This project is a starting point for a Flutter application.
+## Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/deeppatel2610/reel_app.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd reel_app
+   ```
+3. Install dependencies:
+   ```sh
+   flutter pub get
+   ```
+4. Run the app:
+   ```sh
+   flutter run
+   ```
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
+- **Flutter** (Dart)
+- **Firebase** (Auth, Firestore, Storage)
+- **Provider/Bloc** for state management
+- **FFmpeg** for video processing
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div>
+   <img src= "https://github.com/user-attachments/assets/ff7a5653-f4fe-4c8e-9093-761ce7a24df1"  height =500px>
+
+
+https://github.com/user-attachments/assets/517739ed-5b3c-424a-86f1-5d0de3d7a07c
+
+
+
+  </div>
+
+
+
+## Contribution
+Feel free to fork this repository and contribute. Create a pull request for any new features or bug fixes.
+
+## License
+This project is licensed under the MIT License.
+
+---
+Developed by **Deep Patel** 🚀
+
